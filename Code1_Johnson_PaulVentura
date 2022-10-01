@@ -14,6 +14,6 @@ campaignTrail_temp.temp_election_list = [{"id": 15, "year": 1988, "is_premium": 
 campaignTrail_temp.credits = '/u/u01au1';
 HistHexcolour=["#FF0000","#0000FF","#FED105","#00b3b3"];
 HistName=[" Donald Trump"," Hillary Clinton"," Gary Johnson"," Evan McMullin"];
-HistEV=[304,227,0,0,0];
+HistEV=[304,227,0,0];
 HistPV=["62,984,828","65,853,514","4,489,341","731,991"];
 HistPVP=["46.09%","48.18%","3.28%","0.54%"];
